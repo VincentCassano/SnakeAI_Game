@@ -59,7 +59,7 @@
 ### 🚀 快速开始
 1. **克隆或下载仓库**
    ```bash
-   git clone https://your-repository-url/snakeAI_Game.git 
+   git clone https://github.com/VincentCassano/SnakeAI_Game.git
    cd snakeAI_Game
    ```
 
