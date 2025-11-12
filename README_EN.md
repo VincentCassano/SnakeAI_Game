@@ -66,12 +66,12 @@ This is a carefully designed enhanced version of the classic Snake game, incorpo
 2. **Install dependencies**
    ```bash
    pip install -r requirements.txt
-   pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/
+   pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
    ```
 
 3. **Start the game**
    ```bash
-   python snakeAI_Game-v1.0.5.py
+   python snakeAI_Game-v1.0.6.py
    ```
 
 ## 🎯 Usage Guide
@@ -139,7 +139,8 @@ snakeAI_Game-v1.0.0/
 ├── snakeAI_Game-v1.0.2.py   # Historical version of the game
 ├── snakeAI_Game-v1.0.3.py   # Historical version of the game
 ├── snakeAI_Game-v1.0.4.py   # Historical version of the game
-├── snakeAI_Game-v1.0.5.py   # Main game program (latest version)
+├── snakeAI_Game-v1.0.5.py   # Historical version of the game
+├── snakeAI_Game-v1.0.6.py   # Main game program (latest version)
 ├── sound/                   # Sound effects resource directory
 │   ├── count.wav           # Countdown sound effect
 │   ├── eat.wav             # Food eating sound effect
